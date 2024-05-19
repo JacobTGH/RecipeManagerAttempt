@@ -1,3 +1,5 @@
-# RecipeManagerAttempt
+# RecipeManager
 
-This is my solo attempt at the recipe manager which my group were given as our 2nd capstone project
+This project was given to my group as part of a boot camp I took part in
+
+This is my personal attempt at the task as I wanted to try to optimise the code in my own time
